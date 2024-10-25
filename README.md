@@ -9,3 +9,8 @@ Proyek Flutter ini berfokus pada implementasi **Grid View**, yaitu komponen UI y
 
 ### Tujuan Proyek
 Proyek ini bertujuan untuk memperkenalkan pengguna pada cara mengimplementasikan **Grid View** di aplikasi Flutter. Dengan menggunakan Grid View, pengguna dapat belajar bagaimana menyajikan data dalam format yang lebih menarik dan terstruktur, serta memahami cara mengelola tata letak elemen dalam aplikasi mereka. Proyek ini juga memberikan kesempatan untuk mengeksplorasi desain antarmuka yang lebih kreatif.
+
+# SHOWCASE
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/014.1.png" width="200px"/>
+</div>
